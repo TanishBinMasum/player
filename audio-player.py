@@ -1,3 +1,4 @@
+# import everything we need
 import pygame
 import os
 import time
