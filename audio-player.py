@@ -71,6 +71,6 @@ def main():
         else:
             print("Invalid song name. Try again.")
 
-
+# Run main
 if __name__ == "__main__":
     main()
