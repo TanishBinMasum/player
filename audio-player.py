@@ -12,7 +12,7 @@ lyrics_database = {
 
 def play_music(file_path):
     pygame.mixer.music.load(file_path)
-    pygame.mixer.music.play(0)  # Play the song once
+    pygame.mixer.music.play(2)  # Play the song thrice
 
 
 def fetch_lyrics(song_name, music_directory):
