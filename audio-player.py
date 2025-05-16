@@ -1,3 +1,4 @@
+# be sure to place the file in the 
 # import everything we need
 import pygame
 import os
