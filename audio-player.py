@@ -1,4 +1,4 @@
-# be sure to place the file in 
+# be sure to place the music file in the same directory as the program
 # import everything we need
 import pygame
 import os
